@@ -1,5 +1,3 @@
-# Simple Python code, exactly 500 lines, no blanks
-
 def greet(name):
     print(f"Hello, {name}!")
 
